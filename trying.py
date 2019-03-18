@@ -1,3 +1,5 @@
+import socket
+
 def handle_client(client_socket):
     """
     处理客户端请求

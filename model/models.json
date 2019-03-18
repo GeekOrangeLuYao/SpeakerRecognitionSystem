@@ -1,8 +1,12 @@
 {
-  "model_example": {
-    "model_name": "gmm_ubm",
-    "model_train_data": "NIST",
-    "model_description" : "It's a model",
-    "model_author": "Orange"
-  }
+  "model_list": [
+    {
+      "model_example": {
+        "model_name": "gmm_ubm",
+        "model_train_data": "NIST",
+        "model_description": "It's a model",
+        "model_author": "Orange"
+      }
+    }
+  ]
 }
